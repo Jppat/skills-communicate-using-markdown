@@ -15,7 +15,8 @@ print("hello world")
 
 ## This is lesson #3
 In this activity, I added a task list.
-- [x] Learn how to add headers.
-- [x] Learn how to add pictures.
+- [x] Learn how to add headers
+- [x] Learn how to add pictures
 - [x] Learn how to add code snippets
 - [x] Learn how to add a task list
+- [ ] Start Next lesson 
